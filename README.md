@@ -28,13 +28,33 @@ The teacher background isn't a footnote. It's the operating system. Everything I
 
 ## What I build
 
-I spend a lot of time building things I wish existed. Lately that means:
+I build things I wish existed. Most of it is internal ops infrastructure. Some of it ships publicly. All of it is real.
 
-- **[Watson](https://openclaw.ai)** — an AI assistant that runs alongside me. Manages tasks, monitors systems, drafts, researches, routes information. It's genuinely useful, not a demo.
-- **VeeFriends Analytics** — internal dashboards for visualizing onchain data around VeeFriends NFTs.
-- **Content Condor** — a mobile-first PWA that gamifies content consistency. Post across your platforms, feed your virtual condor, earn XP, evolve from egg to mythic creator. Built because motivation systems shouldn't be boring. Beta testers welcome: [watsonwillknow@gmail.com](mailto:watsonwillknow@gmail.com)
+**AI agent infrastructure**
 
-Most of this is ops infrastructure for me and my team, not polished open-source. But I've been shipping open tools in the agent/AI space and would love feedback.
+- **[Watson](https://github.com/jeremyknows/watson-os)** — my AI COO. A multi-agent swarm running on [OpenClaw](https://github.com/jeremyknows/openclaw): event bus, memory system, scheduler, specialist agents for KB management, task routing, content production, market intelligence, and analytics. Has been running continuously for months. Not a demo.
+- **[Watson-OS](https://github.com/jeremyknows/watson-os)** — the open-source ops dashboard that surfaces everything Watson touches. Agent panels, cron health, memory explorer, event bus viewer, system vitals. Next.js + SQLite. ([Live: watson-mission-control.vercel.app](https://watson-mission-control.vercel.app))
+- **[ClawStarter](https://github.com/jeremyknows/clawstarter)** — `curl | bash` installer that gets a non-technical person from zero to a running AI agent on macOS or Linux. Built because onboarding friction kills adoption.
+- **[OpenClaw](https://github.com/jeremyknows/openclaw)** — the open-source AI agent platform Watson runs on. I contribute skills, patterns, and infrastructure from running it in production.
+- **[Watson Works](https://github.com/jeremyknows/watson-works)** — a blog written in Watson's voice about building real agent infrastructure. What works, what breaks, what the architecture actually looks like.
+
+**VeeFriends tools** *(mostly private, but real)*
+
+- **VeeFriends Ops Hub** — internal dashboard linking 5+ sub-apps: S2 upgrades, Treasure Chest planning, VF analytics, community programs. Central coordination layer for product launches.
+- **[VeeFriends Analytics](https://github.com/jeremyknows/veefriends-onchain-analytics)** — on-chain dashboards for NFT P&L, wallet filtering, holder retention metrics. Dune SQL + custom queries.
+- **[VeeFriends Market Pulse](https://github.com/jeremyknows/veefriends-market-pulse)** — eBay sold data scraper and pricing intelligence. Weekly trends, secondary market visibility, alerts.
+- **DoDo** — VeeFriends knowledge base. Full RAG pipeline, 263+ entities, 7 domain files, two-track intake system, confidence engine. Powers a fan-facing companion agent in the community Discord.
+- **Content Condor** — gamified content consistency app. Post across platforms, feed your virtual condor, earn XP, evolve from egg to mythic creator. Built because motivation systems shouldn't be boring. Beta: [watsonwillknow@gmail.com](mailto:watsonwillknow@gmail.com)
+- **[VF Global Wallet Skill](https://github.com/jeremyknows/vf-global-wallet-skill)** — Claude skill for integrating VeeFriends Global Wallet via Privy cross-app wallets.
+- **VF Soulbound (Activator Token)** — on-chain token infrastructure for VeeFriends holder identity. Mockup and spec complete, pending Gary approval.
+
+**Utilities and experiments**
+
+- **[discrawl](https://github.com/jeremyknows/discrawl)** — CLI for Discord with a SQLite backend. Query your server history like a database.
+- **[decide](https://github.com/jeremyknows/decide)** — lightweight decision-flow tool.
+- **[x-bookmark-triage](https://github.com/jeremyknows/x-bookmark-triage)** — turns X/Twitter bookmarks into structured knowledge cards posted to Discord. Built because bookmarks are where good ideas go to die.
+- **[generate-jsdoc](https://github.com/jeremyknows/generate-jsdoc)** — auto-generate JSDoc from source.
+- **[claude-context-audit](https://github.com/jeremyknows/claude-context-audit)** — audit tool for Claude context windows.
 
 ---
 
