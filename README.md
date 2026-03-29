@@ -70,9 +70,9 @@ I build things I wish existed. Most of it is internal ops infrastructure. Some o
 
 A few things I've shipped that you can actually use:
 
-<a href="https://github.com/jeremyknows/PRISM"><img src="assets/cards/prism.jpg" width="49%" alt="PRISM"></a> <a href="https://github.com/jeremyknows/watson-toolkit"><img src="assets/cards/watson-toolkit.jpg" width="49%" alt="Watson Toolkit"></a>
+<a href="https://github.com/jeremyknows/PRISM"><img src="assets/cards/prism.jpg" width="49%" alt="PRISM"></a>&nbsp;<a href="https://github.com/jeremyknows/watson-toolkit"><img src="assets/cards/watson-toolkit.jpg" width="49%" alt="Watson Toolkit"></a>
 
-<a href="https://github.com/jeremyknows/jeremyknows.md"><img src="assets/cards/jeremyknows-md.jpg" width="49%" alt="jeremyknows.md"></a> <a href="https://github.com/jeremyknows/content-condor"><img src="assets/cards/content-condor.jpg" width="49%" alt="Content Condor"></a>
+<a href="https://github.com/jeremyknows/jeremyknows.md"><img src="assets/cards/jeremyknows-md.jpg" width="49%" alt="jeremyknows.md"></a>&nbsp;<a href="https://github.com/jeremyknows/content-condor"><img src="assets/cards/content-condor.jpg" width="49%" alt="Content Condor"></a>
 
 → [See everything on GitHub](https://github.com/jeremyknows)
 
