@@ -8,7 +8,7 @@ I make complex things easy to understand for people. That's it. That's the whole
 
 I was an actor, then clown, improviser, and puppeteer, then teacher and director.
 In 2020, Covid shut down my industry full stop so I pivoted to photography and handyman work to pay the bills in NYC.
-In 2021, I discovered blockchain, crypto, and NFTs. Then through a series of delusional sprints I built a following and landed my dream job.
+In 2021, I discovered blockchain, crypto, and NFTs. Through rapid public experimentation and a refusal to quit, I built a following and landed my dream job.
 Since 2023, I serve as Community Success Analyst to Gary Vaynerchuk's [VeeFriends](https://github.com/veefriends).
 
 Now I host livestreams, advise on Web3 strategy, and lead community and concierge for VeeFriends.
@@ -22,9 +22,9 @@ Different context, same skills. Nice to meet you.
 
 I'm **Community Success Analyst** at **[VeeFriends](https://veefriends.com)**, Gary Vaynerchuk's IP and community platform.
 
-My job is to take complicated things, wallets, crypto, product drops, customer support, and make them work for real people at scale.
+My job is to take complicated things — wallets, crypto, product drops, customer support — and make them work for real people at scale.
 
-The teacher background isn't a footnote. It's the operating system. Everything I build is designed to be understood, not just used.
+The teacher background isn't a footnote. It's the operating system.
 
 ---
 
@@ -34,7 +34,7 @@ I build things I wish existed. Most of it is internal ops infrastructure. Some o
 
 **AI agent infrastructure**
 
-- **Watson** — my AI COO. A multi-agent swarm running on [OpenClaw](https://github.com/jeremyknows/openclaw): event bus, memory system, scheduler, specialist agents for KB management, task routing, content production, market intelligence, and analytics. Has been running continuously for months. Not a demo.
+- **Watson** — my AI COO. A multi-agent swarm running on [OpenClaw](https://github.com/jeremyknows/openclaw): event bus, memory system, scheduler, specialist agents for KB management, task routing, content production, market intelligence, and analytics. Running in production since late 2024 across thousands of tasks. Not a demo.
 - **WatsonFlow** — the task, approval, and memory routing layer under Watson. SQLite-backed. Handles carry-forwards, decision queues, cron health, and cross-session state. The thing that makes a multi-agent swarm actually manageable.
 - **KI Explorer** — a local HTML interface for triaging the knowledge intake queue. Bookmarks, research threads, and KB candidates in one place. Built because the inbox was becoming the bottleneck.
 - **[ClawStarter](https://github.com/jeremyknows/clawstarter)** — `curl | bash` installer that gets a non-technical person from zero to a running AI agent on macOS or Linux. Built because onboarding friction kills adoption.
@@ -46,7 +46,7 @@ I build things I wish existed. Most of it is internal ops infrastructure. Some o
 - **VeeFriends Ops Hub** — internal dashboard linking 5+ sub-apps: S2 upgrades, Treasure Chest planning, VF analytics, community programs. Central coordination layer for product launches.
 - **VeeFriends Analytics** — on-chain dashboards for NFT P&L, wallet filtering, holder retention metrics. Dune SQL + custom queries. Private.
 - **VeeFriends Market Pulse** — eBay sold data scraper and pricing intelligence. Weekly trends, secondary market visibility, alerts. Private.
-- **DoDo** — VeeFriends knowledge base. Full RAG pipeline, 263+ entities, 7 domain files, two-track intake system, confidence engine. Powers a fan-facing companion agent in the community Discord.
+- **DoDo** — VeeFriends knowledge base. RAG-backed Q&A system with 263+ indexed entities, 7 domain-specific knowledge files, two-track intake, confidence scoring. Powers a fan-facing companion agent in the community Discord.
 - **Content Condor** — gamified content consistency app. Post across platforms, feed your virtual condor, earn XP, evolve from egg to mythic creator. Built because motivation systems shouldn't be boring. Beta: [watsonwillknow@gmail.com](mailto:watsonwillknow@gmail.com)
 - **[VF Global Wallet Skill](https://github.com/jeremyknows/vf-global-wallet-skill)** — Claude skill for integrating VeeFriends Global Wallet via Privy cross-app wallets.
 
@@ -83,9 +83,9 @@ A few things I've shipped that you can actually use:
 
 I'm not a developer by background, but I ship with AI every day.
 
-Here's what I've actually learned from doing it: the bottleneck was never the technology. It was always the operator who understood the domain. Once you stop asking "what can AI do?" and start asking "what's now possible in *my specific context* that wasn't before?" — that's when it gets interesting.
+The bottleneck was never the technology. It was always the operator who understood the domain. Once you stop asking "what can AI do?" and start asking "what's now possible in *my specific context* that wasn't before?" — that's when it gets interesting.
 
-I write about this. I build it publicly. If you're figuring out how to actually use this stuff, not just talk about it, you're in the right place.
+I write about this. I build it publicly. If you're doing this, not just talking about it, you're in the right place.
 
 ---
 
@@ -93,9 +93,9 @@ I write about this. I build it publicly. If you're figuring out how to actually 
 
 If you're here from the community, hi.
 
-VeeFriends is a character IP and community built around Gary Vaynerchuk's 283 original characters. We do trading cards, comics, live events, and education. It's one of the most interesting experiments in what community actually means in a digital-native world.
+VeeFriends is a character IP and community built around Gary Vaynerchuk's 283 original characters. We do trading cards, comics, live events, and education. It's one of the most interesting experiments in what community actually means when it lives online.
 
-I've been here since mint in May of 2021, and working full time for the company since February 2023, the community operations, the events, the holder support, the behind-the-scenes. If you want that view, follow along.
+I've been here since mint in May of 2021, and working full time for the company since February 2023 — community operations, events, holder support, the behind-the-scenes. If you want that view, follow along.
 
 - [VeeFriends.com](https://veefriends.com)
 - [@VeeFriends on X](https://x.com/veefriends)
@@ -104,18 +104,20 @@ I've been here since mint in May of 2021, and working full time for the company 
 
 ## Find me
 
-- X: [@jeremyknows](https://x.com/jeremyknows)
-- Discord: jeremyknows (in the VeeFriends server)
-- Working on something interesting? [Let's talk.](https://x.com/jeremyknows)
+- X: [@jeremyknows](https://x.com/jeremyknows) — DMs open
+- Discord: jeremyknows (VeeFriends server)
+- Email: [jeremy@veefriends.com](mailto:jeremy@veefriends.com)
+
+Building something in AI ops, community tools, or Web3 infrastructure? That's where I spend most of my time. [Let's talk.](https://x.com/jeremyknows)
 
 ---
 
 ## Why "Jeremy Knows"
 
-Clown. Teacher. Community leader. Agentic Engineer. Same person, different rooms.
+The name is self-aware. I know just enough about acting, teaching, clowning, Web3, AI, and community ops to move things forward in each domain. Not the deepest expert in any single room, but I know enough to connect them and make real things happen.
 
-I know enough to be dangerous, curious enough to go deep on anything, grounded enough to ship before it's perfect and share the process of making a real impact.
+Clown. Teacher. Community leader. Agentic Engineer. Same person, different rooms.
 
 ---
 
-*Built with Watson 🎩*
+*Built by Jeremy, automated by Watson 🎩*
