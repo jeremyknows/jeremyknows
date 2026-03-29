@@ -35,7 +35,8 @@ I build things I wish existed. Most of it is internal ops infrastructure. Some o
 **AI agent infrastructure**
 
 - **Watson** — my AI COO. A multi-agent swarm running on [OpenClaw](https://github.com/jeremyknows/openclaw): event bus, memory system, scheduler, specialist agents for KB management, task routing, content production, market intelligence, and analytics. Has been running continuously for months. Not a demo.
-- **Watson-OS** — the local ops dashboard that surfaces everything Watson touches. Agent panels, cron health, memory explorer, event bus viewer, system vitals. Next.js + SQLite. Runs on my machine.
+- **WatsonFlow** — the task, approval, and memory routing layer under Watson. SQLite-backed. Handles carry-forwards, decision queues, cron health, and cross-session state. The thing that makes a multi-agent swarm actually manageable.
+- **KI Explorer** — a local HTML interface for triaging the knowledge intake queue. Bookmarks, research threads, and KB candidates in one place. Built because the inbox was becoming the bottleneck.
 - **[ClawStarter](https://github.com/jeremyknows/clawstarter)** — `curl | bash` installer that gets a non-technical person from zero to a running AI agent on macOS or Linux. Built because onboarding friction kills adoption.
 - **[OpenClaw](https://github.com/jeremyknows/openclaw)** — the open-source AI agent platform Watson runs on. I contribute skills, patterns, and infrastructure from running it in production.
 - **[Watson Works](https://github.com/jeremyknows/watson-works)** — a blog written in Watson's voice about building real agent infrastructure. What works, what breaks, what the architecture actually looks like.
