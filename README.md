@@ -18,9 +18,9 @@ Different context, same skills. Nice to meet you.
 
 ## What I do
 
-I'm **Community Success Analyst** at **[VeeFriends](https://veefriends.com)** — Gary Vaynerchuk's IP and community platform.
+I'm **Community Success Analyst** at **[VeeFriends](https://veefriends.com)**, Gary Vaynerchuk's IP and community platform.
 
-My job is to take complicated things — wallets, crypto, product drops, customer support — and make them work for real people at scale.
+My job is to take complicated things, wallets, crypto, product drops, customer support, and make them work for real people at scale.
 
 The teacher background isn't a footnote. It's the operating system. Everything I build is designed to be understood, not just used.
 
@@ -36,15 +36,9 @@ I spend a lot of time building things I wish existed. Lately that means:
 
 Most of this is ops infrastructure for me and my team, not polished open-source. But I've been shipping open tools in the agent/AI space and would love feedback.
 
-### Stuff you can play with
+---
 
-[![PRISM](assets/cards/prism.jpg)](https://github.com/jeremyknows/PRISM)
-
-[![Watson Toolkit](assets/cards/watson-toolkit.jpg)](https://github.com/jeremyknows/watson-toolkit)
-
-[![jeremyknows.md](assets/cards/jeremyknows-md.jpg)](https://github.com/jeremyknows/jeremyknows.md)
-
-[![Content Condor](assets/cards/content-condor.jpg)](https://github.com/jeremyknows/content-condor)
+## Open source
 
 ### For OpenClaw builders
 
@@ -53,6 +47,12 @@ Most of this is ops infrastructure for me and my team, not polished open-source.
 - **[x-master](https://github.com/jeremyknows/x-master)** — master routing skill for all X/Twitter operations in an agent.
 - **[deep-research](https://github.com/jeremyknows/deep-research)** — 7-stage structured research protocol for defensible briefs.
 - **[update-docs](https://github.com/jeremyknows/update-docs)** — generate and maintain architecture docs for any codebase.
+
+A few things I've shipped that you can actually use:
+
+<a href="https://github.com/jeremyknows/PRISM"><img src="assets/cards/prism.jpg" width="49%" alt="PRISM"></a> <a href="https://github.com/jeremyknows/watson-toolkit"><img src="assets/cards/watson-toolkit.jpg" width="49%" alt="Watson Toolkit"></a>
+
+<a href="https://github.com/jeremyknows/jeremyknows.md"><img src="assets/cards/jeremyknows-md.jpg" width="49%" alt="jeremyknows.md"></a> <a href="https://github.com/jeremyknows/content-condor"><img src="assets/cards/content-condor.jpg" width="49%" alt="Content Condor"></a>
 
 → [See everything on GitHub](https://github.com/jeremyknows)
 
@@ -64,17 +64,17 @@ I'm not a developer by background, but I ship with AI every day.
 
 Here's what I've actually learned from doing it: the bottleneck was never the technology. It was always the operator who understood the domain. Once you stop asking "what can AI do?" and start asking "what's now possible in *my specific context* that wasn't before?" — that's when it gets interesting.
 
-I write about this. I build it publicly. If you're figuring out how to actually use this stuff, not just talk about it — you're in the right place.
+I write about this. I build it publicly. If you're figuring out how to actually use this stuff, not just talk about it, you're in the right place.
 
 ---
 
 ## VeeFriends
 
-If you're here from the community — hi.
+If you're here from the community, hi.
 
 VeeFriends is a character IP and community built around Gary Vaynerchuk's 283 original characters. We do trading cards, comics, live events, and education. It's one of the most interesting experiments in what community actually means in a digital-native world.
 
-I've been here since mint in May of 2021, and working full time for the company since February 2023 — the community operations, the events, the holder support, the behind-the-scenes. If you want that view, follow along.
+I've been here since mint in May of 2021, and working full time for the company since February 2023, the community operations, the events, the holder support, the behind-the-scenes. If you want that view, follow along.
 
 - [VeeFriends.com](https://veefriends.com)
 - [@VeeFriends on X](https://x.com/veefriends)
@@ -93,7 +93,7 @@ I've been here since mint in May of 2021, and working full time for the company 
 
 Clown. Teacher. Community leader. Agentic Engineer. Same person, different rooms.
 
-I know enough to be dangerous — curious enough to go deep on anything, grounded enough to ship before it's perfect and share the process of making a real impact.
+I know enough to be dangerous, curious enough to go deep on anything, grounded enough to ship before it's perfect and share the process of making a real impact.
 
 ---
 
