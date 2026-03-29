@@ -1,3 +1,5 @@
+![jeremyknows](assets/jeremyknows-github-header-v1.png)
+
 # Hey, I'm Jeremy Knows
 
 But what does Jeremy Knows know? I often say, "just enough to be dangerous."
