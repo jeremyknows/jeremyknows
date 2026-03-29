@@ -55,7 +55,6 @@ I build things I wish existed. Most of it is internal ops infrastructure. Some o
 - **[decide](https://github.com/jeremyknows/decide)** — lightweight decision-flow tool. Approval queues, button-driven branching, SQLite-backed state. The thing that runs inside WatsonFlow.
 - **[x-bookmark-triage](https://github.com/jeremyknows/x-bookmark-triage)** — turns X/Twitter bookmarks into structured knowledge cards posted to Discord. Haiku triage, tier tags, auto-unbookmark. Built because bookmarks are where good ideas go to die.
 - **[complete-code-review](https://github.com/jeremyknows/complete-code-review)** — full code review lifecycle skill for AI agents. Multi-agent analysis, confidence scoring, anti-sycophancy feedback processing.
-- **[playground](https://github.com/jeremyknows/playground)** — HTML playground skill for agents. Generate visual parameter explorers with live preview and copyable prompts.
 - **[wcc](https://github.com/jeremyknows/wcc)** — skill for delegating coding tasks to Claude Code via tmux. Watson hands off to Claude Code, picks up the result.
 
 ---
