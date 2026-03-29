@@ -46,7 +46,6 @@ I build things I wish existed. Most of it is internal ops infrastructure. Some o
 - **DoDo** — VeeFriends knowledge base. Full RAG pipeline, 263+ entities, 7 domain files, two-track intake system, confidence engine. Powers a fan-facing companion agent in the community Discord.
 - **Content Condor** — gamified content consistency app. Post across platforms, feed your virtual condor, earn XP, evolve from egg to mythic creator. Built because motivation systems shouldn't be boring. Beta: [watsonwillknow@gmail.com](mailto:watsonwillknow@gmail.com)
 - **[VF Global Wallet Skill](https://github.com/jeremyknows/vf-global-wallet-skill)** — Claude skill for integrating VeeFriends Global Wallet via Privy cross-app wallets.
-- **VF Soulbound (Activator Token)** — on-chain token infrastructure for VeeFriends holder identity. Mockup and spec complete, pending Gary approval.
 
 **Utilities and experiments**
 
