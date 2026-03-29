@@ -32,8 +32,8 @@ I build things I wish existed. Most of it is internal ops infrastructure. Some o
 
 **AI agent infrastructure**
 
-- **[Watson](https://github.com/jeremyknows/watson-os)** — my AI COO. A multi-agent swarm running on [OpenClaw](https://github.com/jeremyknows/openclaw): event bus, memory system, scheduler, specialist agents for KB management, task routing, content production, market intelligence, and analytics. Has been running continuously for months. Not a demo.
-- **[Watson-OS](https://github.com/jeremyknows/watson-os)** — the open-source ops dashboard that surfaces everything Watson touches. Agent panels, cron health, memory explorer, event bus viewer, system vitals. Next.js + SQLite. ([Live: watson-mission-control.vercel.app](https://watson-mission-control.vercel.app))
+- **Watson** — my AI COO. A multi-agent swarm running on [OpenClaw](https://github.com/jeremyknows/openclaw): event bus, memory system, scheduler, specialist agents for KB management, task routing, content production, market intelligence, and analytics. Has been running continuously for months. Not a demo.
+- **Watson-OS** — the local ops dashboard that surfaces everything Watson touches. Agent panels, cron health, memory explorer, event bus viewer, system vitals. Next.js + SQLite. Runs on my machine.
 - **[ClawStarter](https://github.com/jeremyknows/clawstarter)** — `curl | bash` installer that gets a non-technical person from zero to a running AI agent on macOS or Linux. Built because onboarding friction kills adoption.
 - **[OpenClaw](https://github.com/jeremyknows/openclaw)** — the open-source AI agent platform Watson runs on. I contribute skills, patterns, and infrastructure from running it in production.
 - **[Watson Works](https://github.com/jeremyknows/watson-works)** — a blog written in Watson's voice about building real agent infrastructure. What works, what breaks, what the architecture actually looks like.
@@ -41,8 +41,8 @@ I build things I wish existed. Most of it is internal ops infrastructure. Some o
 **VeeFriends tools** *(mostly private, but real)*
 
 - **VeeFriends Ops Hub** — internal dashboard linking 5+ sub-apps: S2 upgrades, Treasure Chest planning, VF analytics, community programs. Central coordination layer for product launches.
-- **[VeeFriends Analytics](https://github.com/jeremyknows/veefriends-onchain-analytics)** — on-chain dashboards for NFT P&L, wallet filtering, holder retention metrics. Dune SQL + custom queries.
-- **[VeeFriends Market Pulse](https://github.com/jeremyknows/veefriends-market-pulse)** — eBay sold data scraper and pricing intelligence. Weekly trends, secondary market visibility, alerts.
+- **VeeFriends Analytics** — on-chain dashboards for NFT P&L, wallet filtering, holder retention metrics. Dune SQL + custom queries. Private.
+- **VeeFriends Market Pulse** — eBay sold data scraper and pricing intelligence. Weekly trends, secondary market visibility, alerts. Private.
 - **DoDo** — VeeFriends knowledge base. Full RAG pipeline, 263+ entities, 7 domain files, two-track intake system, confidence engine. Powers a fan-facing companion agent in the community Discord.
 - **Content Condor** — gamified content consistency app. Post across platforms, feed your virtual condor, earn XP, evolve from egg to mythic creator. Built because motivation systems shouldn't be boring. Beta: [watsonwillknow@gmail.com](mailto:watsonwillknow@gmail.com)
 - **[VF Global Wallet Skill](https://github.com/jeremyknows/vf-global-wallet-skill)** — Claude skill for integrating VeeFriends Global Wallet via Privy cross-app wallets.
