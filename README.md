@@ -32,25 +32,25 @@ The teacher background isn't a footnote. It's the operating system.
 
 I build things I wish existed. Most of it is internal ops infrastructure. Some of it ships publicly. All of it is real.
 
-**AI agent infrastructure**
+**Flagship — AI agent infrastructure**
 
 - **Watson** — my AI COO. A multi-agent swarm running on [OpenClaw](https://github.com/jeremyknows/openclaw): event bus, memory system, scheduler, specialist agents for KB management, task routing, content production, market intelligence, and analytics. Running in production since late 2024 across thousands of tasks. Not a demo.
-- **WatsonFlow** — the task, approval, and memory routing layer under Watson. SQLite-backed. Handles carry-forwards, decision queues, cron health, and cross-session state. The thing that makes a multi-agent swarm actually manageable.
-- **KI Explorer** — a local HTML interface for triaging the knowledge intake queue. Bookmarks, research threads, and KB candidates in one place. Built because the inbox was becoming the bottleneck.
+- **WatsonFlow** — the task, approval, and memory routing layer under Watson. SQLite-backed. Handles carry-forwards, decision queues, cron health, and cross-session state. The thing that makes a multi-agent swarm actually manageable. *[Private]*
+- **Knowledge Explorer** — HTML interface for triaging the knowledge intake queue. Bookmarks, research threads, and KB candidates in one place. Built because the inbox was becoming the bottleneck. *[Private]*
+- **Librarian** — Watson's memory stack. Structured recall across sessions: daily memory, long-term facts, decision history, entity registry. The thing that makes an AI agent actually remember context across weeks and months. *[Private]*
 - **[ClawStarter](https://github.com/jeremyknows/clawstarter)** — `curl | bash` installer that gets a non-technical person from zero to a running AI agent on macOS or Linux. Built because onboarding friction kills adoption.
-- **[OpenClaw](https://github.com/jeremyknows/openclaw)** — the open-source AI agent platform Watson runs on. I contribute skills, patterns, and infrastructure from running it in production.
 - **[Watson Works](https://github.com/jeremyknows/watson-works)** — a blog written in Watson's voice about building real agent infrastructure. What works, what breaks, what the architecture actually looks like.
 
-**VeeFriends tools** *(mostly private, but real)*
+**VeeFriends ecosystem** *(mostly private, but real)*
 
 - **VeeFriends Ops Hub** — internal dashboard linking 5+ sub-apps: S2 upgrades, Treasure Chest planning, VF analytics, community programs. Central coordination layer for product launches.
 - **VeeFriends Analytics** — on-chain dashboards for NFT P&L, wallet filtering, holder retention metrics. Dune SQL + custom queries. Private.
 - **VeeFriends Market Pulse** — eBay sold data scraper and pricing intelligence. Weekly trends, secondary market visibility, alerts. Private.
 - **DoDo** — VeeFriends knowledge base. RAG-backed Q&A system with 263+ indexed entities, 7 domain-specific knowledge files, two-track intake, confidence scoring. Powers a fan-facing companion agent in the community Discord.
-- **Content Condor** — gamified content consistency app. Post across platforms, feed your virtual condor, earn XP, evolve from egg to mythic creator. Built because motivation systems shouldn't be boring. Beta: [watsonwillknow@gmail.com](mailto:watsonwillknow@gmail.com)
+- **Content Condor** — gamified content consistency app. Post across platforms, feed your virtual condor, earn XP, evolve from egg to mythic creator. Built because motivation systems shouldn't be boring. Beta: [watsonwillknow@gmail.com](mailto:watsonwillknow@gmail.com) *(Watson's address — he reads it)*
 - **[VF Global Wallet Skill](https://github.com/jeremyknows/vf-global-wallet-skill)** — Claude skill for integrating VeeFriends Global Wallet via Privy cross-app wallets.
 
-**Utilities and experiments**
+**Utilities**
 
 - **[decide](https://github.com/jeremyknows/decide)** — lightweight decision-flow tool. Approval queues, button-driven branching, SQLite-backed state. The thing that runs inside WatsonFlow.
 - **[x-bookmark-triage](https://github.com/jeremyknows/x-bookmark-triage)** — turns X/Twitter bookmarks into structured knowledge cards posted to Discord. Haiku triage, tier tags, auto-unbookmark. Built because bookmarks are where good ideas go to die.
@@ -75,7 +75,7 @@ A few things I've shipped that you can actually use:
 
 <a href="https://github.com/jeremyknows/jeremyknows.md"><img src="assets/cards/jeremyknows-md.jpg" width="49%" height="200" alt="jeremyknows.md"></a>&nbsp;<a href="https://github.com/jeremyknows/content-condor"><img src="assets/cards/content-condor.jpg" width="49%" height="200" alt="Content Condor"></a>
 
-→ [See everything on GitHub](https://github.com/jeremyknows)
+→ [See everything on GitHub](https://github.com/jeremyknows) — if something catches your eye, a ⭐ goes a long way
 
 ---
 
@@ -108,7 +108,9 @@ I've been here since mint in May of 2021, and working full time for the company 
 - Discord: jeremyknows (VeeFriends server)
 - Email: [jeremy@veefriends.com](mailto:jeremy@veefriends.com)
 
-Building something in AI ops, community tools, or Web3 infrastructure? That's where I spend most of my time. [Let's talk.](https://x.com/jeremyknows)
+**Availability:** Full-time at VeeFriends. Open for advisory on AI ops, community infrastructure, and Web3.
+
+Building something in AI ops, community tools, or Web3 infrastructure? That's where I spend most of my time. [Let's talk.](https://vf.social/jk20)
 
 ---
 
