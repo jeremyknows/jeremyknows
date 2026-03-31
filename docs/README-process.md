@@ -8,12 +8,16 @@ This repo is the live public GitHub profile repo for **@jeremyknows**.
 - `docs/` — lightweight maintenance notes for future updates
 
 ## Canonical source docs
-The strategy and brand system were developed in Watson's workspace and remain the source of truth there:
+The private preserved source now lives in:
+- `~/projects/jeremyknows-studio/SOURCE-OF-TRUTH.md`
 
-- Brand strategy guide: `~/.openclaw/agents/main/workspace/docs/knowledge/brand/jeremyknows-brand-identity-2026-03-28.md`
-- Visual identity guide: `~/.openclaw/agents/main/workspace/docs/knowledge/brand/jeremyknows-visual-identity-2026-03-28.md`
-- Final PDF brand guide: `~/.openclaw/agents/main/workspace/docs/knowledge/brand/jeremyknows-brand-guide-v2.pdf`
-- README working draft: `~/.openclaw/agents/main/workspace/data/jeremyknows-github-readme-draft.md`
+That file points to the current brand, README, site, and asset truth.
+
+Current upstream references include:
+- Brand strategy guide: `~/projects/jeremyknows-studio/docs/strategy/jeremyknows-brand-identity-2026-03-28.md`
+- Visual identity guide: `~/projects/jeremyknows-studio/docs/visual/jeremyknows-visual-identity-2026-03-28.md`
+- Final PDF brand guide: `~/projects/jeremyknows-studio/exports/jeremyknows-brand-guide-v2.pdf`
+- Active README draft origin: `~/.openclaw/agents/main/workspace/data/jeremyknows-github-readme-draft.md`
 
 ## Relationship to other repos
 - `~/projects/jeremyknows` = GitHub profile / public identity on GitHub
